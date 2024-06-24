@@ -1,0 +1,883 @@
+.demoPage1 {
+  background: url("./pages/A1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.demoPage2 {
+  background: url("./pages/A2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+
+.demoPage3 {
+  background: url("./pages/A3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+
+.demoPage3 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 11px;
+}
+
+.demoPage3 :nth-child(2) {
+  position: fixed;
+  width: 143px;
+  top: 171px;
+  left: 32px;
+}
+.demoPage3 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage3 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 317px;
+  left: 66px;
+}
+
+.demoPage4 {
+  background: url("./pages/A4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage5 {
+  background: url("./pages/A5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage6 {
+  background: url("./pages/A6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage7 {
+  background: url("./pages/A7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage8 {
+  background: url("./pages/A8.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage9 {
+  background: url("./pages/A9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage10 {
+  background: url("./pages/A10.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage11 {
+  background: url("./pages/A11.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage12 {
+  background: url("./pages/A12.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage13 {
+  background: url("./pages/A13.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage14 {
+  background: url("./pages/A14.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage15 {
+  background: url("./pages/A15.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage16 {
+  background: url("./pages/A16.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage17 {
+  background: url("./pages/A17.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage18 {
+  background: url("./pages/A18.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage19 {
+  background: url("./pages/A19.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage20 {
+  background: url("./pages/A20.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage21 {
+  background: url("./pages/A21.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage22 {
+  background: url("./pages/A22.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage23 {
+  background: url("./pages/A23.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage24 {
+  background: url("./pages/A24.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage25 {
+  background: url("./pages/A25.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage26 {
+  background: url("./pages/A26.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage27 {
+  background: url("./pages/A27.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: -5px 0px 10px 1px rgb(0, 0, 0);
+}
+.demoPage28 {
+  background: url("./pages/A28.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 0px 10px 1px rgb(0, 0, 0);
+}
+
+/* Others
+..
+...... */
+.demoPage4 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 140px;
+  left: 211px;
+}
+
+.demoPage4 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage4 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage4 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage5 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 11px;
+}
+
+.demoPage5 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage5 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage5 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage6 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 138px;
+  left: 211px;
+}
+
+.demoPage6 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage6 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 279px;
+  left: 211px;
+}
+
+.demoPage6 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage7 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 12px;
+}
+
+.demoPage7 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 171px;
+  left: 32px;
+}
+.demoPage7 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage7 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 317px;
+  left: 66px;
+}
+
+.demoPage8 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 12px;
+}
+
+.demoPage8 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage8 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 218px;
+}
+
+.demoPage8 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 65px;
+}
+
+.demoPage9 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage9 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 32px;
+}
+.demoPage9 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage9 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 32px;
+}
+
+.demoPage10 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 12px;
+}
+
+.demoPage10 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 32px;
+}
+.demoPage10 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage10 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage11 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 138px;
+  left: 212px;
+}
+
+.demoPage11 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 34px;
+}
+.demoPage11 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage11 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage12 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 10px;
+}
+
+.demoPage12 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage12 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 213px;
+  left: 217px;
+}
+
+.demoPage12 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 315px;
+  left: 66px;
+}
+
+.demoPage13 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage13 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage13 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 279px;
+  left: 211px;
+}
+
+.demoPage13 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 304px;
+  left: 33px;
+}
+
+.demoPage14 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 11px;
+}
+
+.demoPage14 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 171px;
+  left: 33px;
+}
+.demoPage14 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage14 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage15 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage15 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 165px;
+  left: 33px;
+}
+.demoPage15 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 211px;
+}
+
+.demoPage15 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 304px;
+  left: 33px;
+}
+
+.demoPage16 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 12px;
+}
+
+.demoPage16 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage16 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage16 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage17 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage17 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage17 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 211px;
+}
+
+.demoPage17 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 304px;
+  left: 33px;
+}
+
+.demoPage18 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 22px;
+  left: 11px;
+}
+
+.demoPage18 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 171px;
+  left: 33px;
+}
+.demoPage18 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage18 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage19 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage19 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 165px;
+  left: 33px;
+}
+.demoPage19 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage19 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage20 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 10px;
+}
+
+.demoPage20 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage20 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage20 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage21 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 140px;
+  left: 212px;
+}
+
+.demoPage21 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage21 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage21 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage22 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 11px;
+}
+
+.demoPage22 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage22 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 218px;
+}
+
+.demoPage22 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 315px;
+  left: 66px;
+}
+
+.demoPage23 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage23 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 33px;
+}
+.demoPage23 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 211px;
+}
+
+.demoPage23 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage24 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 10px;
+}
+
+.demoPage24 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 170px;
+  left: 33px;
+}
+.demoPage24 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage24 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 316px;
+  left: 66px;
+}
+
+.demoPage25 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 211px;
+}
+
+.demoPage25 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 34px;
+}
+.demoPage25 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage25 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+.demoPage26 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 21px;
+  left: 10px;
+}
+
+.demoPage26 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 171px;
+  left: 33px;
+}
+.demoPage26 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 214px;
+  left: 217px;
+}
+
+.demoPage26 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 315px;
+  left: 66px;
+}
+
+.demoPage27 :nth-child(1) {
+  position: fixed;
+  width: 142px;
+  top: 139px;
+  left: 212px;
+}
+
+.demoPage27 :nth-child(2) {
+  position: fixed;
+  width: 142px;
+  top: 166px;
+  left: 34px;
+}
+.demoPage27 :nth-child(3) {
+  position: fixed;
+  width: 142px;
+  top: 280px;
+  left: 212px;
+}
+
+.demoPage27 :nth-child(4) {
+  position: fixed;
+  width: 142px;
+  top: 305px;
+  left: 33px;
+}
+
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@media only screen and (min-width: 545px) {
+  #bookContainer {
+    width: 50%;
+    padding: auto;
+  }
+}
+
+@media only screen and (max-width: 545px) {
+  #bookContainer {
+    padding-left: 0px !important;
+    background-color: transparent !important;
+    margin: 0px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 5% !important;
+    width: 90% !important;
+  }
+}
+
+#bookContainer {
+  background-color: black;
+  margin: 0 auto ;
+  margin-top: 40px;
+  max-width: 80% !important;
+  padding: 50px 0;
+  padding-left: 2vw;
+  border-radius: 20px;
+}

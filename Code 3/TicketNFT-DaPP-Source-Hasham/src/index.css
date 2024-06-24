@@ -1,0 +1,193 @@
+
+:root {
+
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  background-image: url(./assets/background.jpeg);
+  min-height: 800px;
+  background-size: cover;
+  background-position: auto;
+  font-synthesis: none;
+}
+
+body {
+  position: relative;
+font-family: 'Cabin Sketch', cursive;
+
+  height: 100vh;
+  min-height: 800px;
+  margin: 0;
+  padding: 0;
+}
+.css-1f3nhwy-MuiButtonBase-root-MuiIconButton-root:hover {
+  background-color: #1a8cd8 !important;
+}
+
+@media screen and (max-width: 660px) {
+  .css-qbhnbh {
+    gap: 0px !important;
+  }
+}
+
+.neon-button {
+  background-color: #fff;
+font-family: 'Cabin Sketch', cursive;
+
+    border: .125em solid #9130f8;
+    border: .125em solid var(--clr-neon);
+    border-radius: .25em;
+    box-shadow: inset 0 0 .5em 0 #9130f8, 0 0 .5em 0 #9130f8;
+    box-shadow: inset 0 0 .5em 0 var(--clr-neon), 0 0 .5em 0 var(--clr-neon);
+    color: #9130f8;
+    color: var(--clr-neon);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: .75em 1em;
+    position: relative;
+    text-decoration: none;
+    font-weight: 600;
+    text-shadow: 0 0 .125em hsla(0, 0%, 100%, .3), 0 0 .45em currentColor;
+    z-index: 10;
+}
+
+
+.neon-button:hover,
+.neon-button:focus {
+  background-color: var(--clr-neon);
+    color: #fff;
+    text-shadow: none;
+    transition: background-color 1s;
+}
+
+
+.mint_card {
+  justify-content: space-between !important;
+  height: 300px !important;
+  padding-bottom: 20px;
+}
+
+.mint_title {
+  color: var(--clr-neon) !important;
+  font-size: 19px !important;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+  }
+  .button_hero_container {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .neon-button {
+    font-size: 0.9rem;
+  }
+
+  .button_container {
+    display: flex;
+    justify-content: center !important;
+  }
+
+  .mint_container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+
+  .mint_box {
+    min-width: 80% !important;
+    padding: 70px 0 !important;
+  }
+
+  .footer {
+    position: relative !important;
+  }
+
+  .footer .MuiTypography-root {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar_wrapper {
+    display: flex;
+    justify-content: space-between !important;
+    width: 100%;
+    padding: 0 20px;
+  }
+}
+
+.button_container {
+  display: flex;
+  justify-content: flex-end;
+}
+:root {
+   --clr-neon: #000000;
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-light-white: hsla(0, 0%, 100%, 0.829);
+  --clr-light-neon: hsla(269, 93%, 58%, 0.508);
+}
+
+
+.description_container {
+  max-width: 400px;
+  background-color: #000000da;
+  padding: 30px 40px;
+  color: #ffffff;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+
+.description_container h2 {
+  font-size: 35px;
+  line-height: 30px;
+}
+
+.description_container p {
+  font-size: 17px;
+  text-align: justify;
+}
+
+.animation {
+  position: absolute;
+  width: 1280px;
+  height: 100vh;
+  z-index: -1;
+  top: -300px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+@media only screen and (max-width: 600px) {
+  .animation {
+    display: none;
+  }
+
+  .MintButton {
+    font-size: 0.9rem;
+  }
+
+  .description_container h2 {
+    font-size: 25px;
+  }
+
+  .description_container p,
+  .description_container li {
+    font-size: 12px;
+  }
+  @media only screen and (max-width: 600px) {
+    .MintButtonContainer {
+      flex-wrap: wrap;
+      /* margin-top: 0px; */
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+a {
+  color: white;
+}
