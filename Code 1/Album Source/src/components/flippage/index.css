@@ -869,6 +869,8 @@ body::-webkit-scrollbar {
     margin-bottom: 10px !important;
     margin-left: 5% !important;
     width: 90% !important;
+    padding-right: 2vw;
+    width: max-content;
   }
 }
 
@@ -880,4 +882,5 @@ body::-webkit-scrollbar {
   padding: 50px 0;
   padding-left: 2vw;
   border-radius: 20px;
+
 }
