@@ -6,69 +6,34 @@
 }
 
 .neon-button {
-  font-size: 1.5rem;
-  display: inline-block;
-  z-index: 10;
-  background-color: white;
-  cursor: pointer;
-  text-decoration: none;
-  color: var(--clr-neon);
-  border: var(--clr-neon) 0.125em solid;
-  padding: 0.25em 1em;
-  border-radius: 0.25em;
+  background-color: #fff;
+font-family: 'Cabin Sketch', cursive;
 
-  text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
-
-  box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
-
-  position: relative;
-}
-
-.neon-button::before {
-  pointer-events: none;
-  content: "";
-  position: absolute;
-  background: var(--clr-neon);
-  top: 120%;
-  left: 0;
-  width: 100%;
-  height: 100%;
-
-  transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
-  filter: blur(1em);
-  opacity: 0.7;
-}
-
-.neon-button::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  box-shadow: 0 0 2em 0.5em var(--clr-neon);
-  opacity: 0;
-  background-color: var(--clr-neon);
-  z-index: -1;
-  transition: opacity 100ms linear;
+    border: .125em solid var(--clr-neon);
+    border-radius: .25em;
+    box-shadow: inset 0 0 .5em 0 var(--clr-neon), 0 0 .5em 0 var(--clr-neon);
+    color: #9130f8;
+    color: var(--clr-neon);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: .75em 1em;
+    position: relative;
+    text-decoration: none;
+    font-weight: 600;
+    text-shadow: 0 0 .125em hsla(0, 0%, 100%, .3), 0 0 .45em currentColor;
+    z-index: 10;
 }
 
 .neon-button:hover,
 .neon-button:focus {
-  color: white;
-  text-shadow: none;
-  background-color: transparent;
-  transition: background-color 1s;
+  background-color: var(--clr-neon);
+    color: #fff;
+    text-shadow: none;
+    transition: background-color 1s;
 }
 
-.neon-button:hover::before,
-.neon-button:focus::before {
-  opacity: 1;
-}
-.neon-button:hover::after,
-.neon-button:focus::after {
-  opacity: 1;
-}
+
 
 @media only screen and (max-width: 600px) {
   .button_hero_container {
@@ -83,5 +48,6 @@
 }
 
 :root {
-  --clr-neon: hsl(269, 93%, 58%);
+      --clr-neon: #000000;
+
 }
