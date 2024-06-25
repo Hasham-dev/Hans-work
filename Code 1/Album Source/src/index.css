@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: 'Cabin Sketch', cursive;
+   scrollbar-width: none;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -10,3 +11,7 @@ body {
 }
 
 
+* {
+     scrollbar-width: none;
+
+}
