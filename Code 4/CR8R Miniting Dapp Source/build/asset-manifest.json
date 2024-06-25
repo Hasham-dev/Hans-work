@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.576ef72b.css",
+    "main.js": "/static/js/main.84e91f03.js",
+    "static/media/background.mp4": "/static/media/background.bc116706db9562f0994f.mp4",
+    "static/media/Floating-NiFTis.gif": "/static/media/Floating-NiFTis.251f41f61f2b20f43666.gif",
+    "static/media/bg.png": "/static/media/bg.1ee130d678ff375f53fe.png",
+    "static/media/logo.png": "/static/media/logo.7a63ed7efd2f5777a83b.png",
+    "static/media/discord.png": "/static/media/discord.efa0a9164ac7a2eac5ba.png",
+    "static/media/insta.webp": "/static/media/insta.ef2e1b2ccf6c8260855c.webp",
+    "static/media/twitter.png": "/static/media/twitter.c71b95a13e53bc288c4f.png",
+    "index.html": "/index.html",
+    "main.576ef72b.css.map": "/static/css/main.576ef72b.css.map",
+    "main.84e91f03.js.map": "/static/js/main.84e91f03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576ef72b.css",
+    "static/js/main.84e91f03.js"
+  ]
+}
