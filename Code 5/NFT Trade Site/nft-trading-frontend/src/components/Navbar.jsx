@@ -8,8 +8,14 @@ const Nav = styled.nav`
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
+
   background-color: #000000;
   border-bottom: 2px solid #fff;
+
+  @media only screen and (max-width: 600px) {
+    flex-wrap: wrap;
+    padding: 1rem 0rem;
+  }
 `;
 
 const NavLinks = styled.ul`
@@ -17,6 +23,10 @@ const NavLinks = styled.ul`
   display: flex;
   gap: 1.5rem;
   margin: 0;
+
+  @media only screen and (max-width: 600px) {
+    padding: 0;
+  }
 `;
 
 const NavLinkItem = styled.li`
@@ -30,6 +40,7 @@ const StyledLink = styled(Link)`
   border-radius: 4px;
   transition: background-color 0.3s, transform 0.3s;
   color: #fff;
+  white-space: nowrap;
 
   &:hover {
     background-color: #00000090;
@@ -41,6 +52,11 @@ const WalletInfo = styled.div`
   display: flex;
   align-items: center;
   gap: 1rem;
+  @media only screen and (max-width: 600px) {
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+  }
 `;
 
 const Address = styled.span`
