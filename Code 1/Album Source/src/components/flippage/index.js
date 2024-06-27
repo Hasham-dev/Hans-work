@@ -392,154 +392,154 @@ export default function FlipPage() {
         <div className="demoPage1"></div>
         <div className="demoPage2"></div>
         <div className="demoPage3">
-          <img src={require(`${images.list[0]}`)} alt="" />
-          <img src={require(`${images.list[1]}`)} alt="" />
-          <img src={require(`${images.list[2]}`)} alt="" />
-          <img src={require(`${images.list[3]}`)} alt="" />
+          {/* <img src={require(`${images.list[0]}`)} alt="" />
+          // <img src={require(`${images.list[1]}`)} alt="" />
+          // <img src={require(`${images.list[2]}`)} alt="" />
+          // <img src={require(`${images.list[3]}`)} alt="" /> */}
         </div>
         <div className="demoPage4">
-          <img src={require(`${images.list[4]}`)} alt="" />
-          <img src={require(`${images.list[5]}`)} alt="" />
-          <img src={require(`${images.list[6]}`)} alt="" />
-          <img src={require(`${images.list[7]}`)} alt="" />
+          {/* <img src={require(`${images.list[4]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[5]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[6]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[7]}`)} alt="" /> */}
         </div>
         <div className="demoPage5">
-          <img src={require(`${images.list[8]}`)} alt="" />
-          <img src={require(`${images.list[9]}`)} alt="" />
-          <img src={require(`${images.list[10]}`)} alt="" />
-          <img src={require(`${images.list[11]}`)} alt="" />
+          {/* <img src={require(`${images.list[8]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[9]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[10]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[11]}`)} alt="" /> */}
         </div>
         <div className="demoPage6">
-          <img src={require(`${images.list[12]}`)} alt="" />
-          <img src={require(`${images.list[13]}`)} alt="" />
-          <img src={require(`${images.list[14]}`)} alt="" />
-          <img src={require(`${images.list[15]}`)} alt="" />
+          {/* <img src={require(`${images.list[12]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[13]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[14]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[15]}`)} alt="" /> */}
         </div>
         <div className="demoPage7">
-          <img src={require(`${images.list[16]}`)} alt="" />
-          <img src={require(`${images.list[17]}`)} alt="" />
-          <img src={require(`${images.list[18]}`)} alt="" />
-          <img src={require(`${images.list[19]}`)} alt="" />
+          {/* <img src={require(`${images.list[16]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[17]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[18]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[19]}`)} alt="" /> */}
         </div>
         <div className="demoPage8">
-          <img src={require(`${images.list[20]}`)} alt="" />
-          <img src={require(`${images.list[21]}`)} alt="" />
-          <img src={require(`${images.list[22]}`)} alt="" />
-          <img src={require(`${images.list[23]}`)} alt="" />
+          {/* <img src={require(`${images.list[20]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[21]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[22]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[23]}`)} alt="" /> */}
         </div>
         <div className="demoPage9">
-          <img src={require(`${images.list[24]}`)} alt="" />
-          <img src={require(`${images.list[25]}`)} alt="" />
-          <img src={require(`${images.list[26]}`)} alt="" />
-          <img src={require(`${images.list[27]}`)} alt="" />
+          {/* <img src={require(`${images.list[24]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[25]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[26]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[27]}`)} alt="" /> */}
         </div>
         <div className="demoPage10">
-          <img src={require(`${images.list[28]}`)} alt="" />
-          <img src={require(`${images.list[29]}`)} alt="" />
-          <img src={require(`${images.list[30]}`)} alt="" />
-          <img src={require(`${images.list[31]}`)} alt="" />
+          {/* <img src={require(`${images.list[28]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[29]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[30]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[31]}`)} alt="" /> */}
         </div>
         <div className="demoPage11">
-          <img src={require(`${images.list[32]}`)} alt="" />
-          <img src={require(`${images.list[33]}`)} alt="" />
-          <img src={require(`${images.list[34]}`)} alt="" />
-          <img src={require(`${images.list[35]}`)} alt="" />
+          {/* <img src={require(`${images.list[32]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[33]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[34]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[35]}`)} alt="" /> */}
         </div>
         <div className="demoPage12">
-          <img src={require(`${images.list[36]}`)} alt="" />
-          <img src={require(`${images.list[37]}`)} alt="" />
-          <img src={require(`${images.list[38]}`)} alt="" />
-          <img src={require(`${images.list[39]}`)} alt="" />
+          {/* <img src={require(`${images.list[36]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[37]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[38]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[39]}`)} alt="" /> */}
         </div>
         <div className="demoPage13">
-          <img src={require(`${images.list[40]}`)} alt="" />
-          <img src={require(`${images.list[41]}`)} alt="" />
-          <img src={require(`${images.list[42]}`)} alt="" />
-          <img src={require(`${images.list[43]}`)} alt="" />
+          {/* <img src={require(`${images.list[40]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[41]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[42]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[43]}`)} alt="" /> */}
         </div>
         <div className="demoPage14">
-          <img src={require(`${images.list[44]}`)} alt="" />
-          <img src={require(`${images.list[45]}`)} alt="" />
-          <img src={require(`${images.list[46]}`)} alt="" />
-          <img src={require(`${images.list[47]}`)} alt="" />
+          {/* <img src={require(`${images.list[44]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[45]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[46]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[47]}`)} alt="" /> */}
         </div>
         <div className="demoPage15">
-          <img src={require(`${images.list[48]}`)} alt="" />
-          <img src={require(`${images.list[49]}`)} alt="" />
-          <img src={require(`${images.list[50]}`)} alt="" />
-          <img src={require(`${images.list[51]}`)} alt="" />
+          {/* <img src={require(`${images.list[48]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[49]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[50]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[51]}`)} alt="" /> */}
         </div>
         <div className="demoPage16">
-          <img src={require(`${images.list[52]}`)} alt="" />
-          <img src={require(`${images.list[53]}`)} alt="" />
-          <img src={require(`${images.list[54]}`)} alt="" />
-          <img src={require(`${images.list[55]}`)} alt="" />
+          {/* <img src={require(`${images.list[52]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[53]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[54]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[55]}`)} alt="" /> */}
         </div>
         <div className="demoPage17">
-          <img src={require(`${images.list[56]}`)} alt="" />
-          <img src={require(`${images.list[57]}`)} alt="" />
-          <img src={require(`${images.list[58]}`)} alt="" />
-          <img src={require(`${images.list[59]}`)} alt="" />
+          {/* <img src={require(`${images.list[56]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[57]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[58]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[59]}`)} alt="" /> */}
         </div>
         <div className="demoPage18">
-          <img src={require(`${images.list[60]}`)} alt="" />
-          <img src={require(`${images.list[61]}`)} alt="" />
-          <img src={require(`${images.list[62]}`)} alt="" />
-          <img src={require(`${images.list[63]}`)} alt="" />
+          {/* <img src={require(`${images.list[60]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[61]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[62]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[63]}`)} alt="" /> */}
         </div>
         <div className="demoPage19">
-          <img src={require(`${images.list[64]}`)} alt="" />
-          <img src={require(`${images.list[65]}`)} alt="" />
-          <img src={require(`${images.list[66]}`)} alt="" />
-          <img src={require(`${images.list[67]}`)} alt="" />
+          {/* <img src={require(`${images.list[64]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[65]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[66]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[67]}`)} alt="" /> */}
         </div>
         <div className="demoPage20">
-          <img src={require(`${images.list[68]}`)} alt="" />
-          <img src={require(`${images.list[69]}`)} alt="" />
-          <img src={require(`${images.list[70]}`)} alt="" />
-          <img src={require(`${images.list[71]}`)} alt="" />
+          {/* <img src={require(`${images.list[68]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[69]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[70]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[71]}`)} alt="" /> */}
         </div>
         <div className="demoPage21">
-          <img src={require(`${images.list[72]}`)} alt="" />
-          <img src={require(`${images.list[73]}`)} alt="" />
-          <img src={require(`${images.list[74]}`)} alt="" />
-          <img src={require(`${images.list[75]}`)} alt="" />
+          {/* <img src={require(`${images.list[72]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[73]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[74]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[75]}`)} alt="" /> */}
         </div>
         <div className="demoPage22">
-          <img src={require(`${images.list[76]}`)} alt="" />
-          <img src={require(`${images.list[77]}`)} alt="" />
-          <img src={require(`${images.list[78]}`)} alt="" />
-          <img src={require(`${images.list[79]}`)} alt="" />
+          {/* <img src={require(`${images.list[76]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[77]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[78]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[79]}`)} alt="" /> */}
         </div>
         <div className="demoPage23">
-          <img src={require(`${images.list[80]}`)} alt="" />
-          <img src={require(`${images.list[81]}`)} alt="" />
-          <img src={require(`${images.list[82]}`)} alt="" />
-          <img src={require(`${images.list[83]}`)} alt="" />
+          {/* <img src={require(`${images.list[80]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[81]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[82]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[83]}`)} alt="" /> */}
         </div>
         <div className="demoPage24">
-          <img src={require(`${images.list[84]}`)} alt="" />
-          <img src={require(`${images.list[85]}`)} alt="" />
-          <img src={require(`${images.list[86]}`)} alt="" />
-          <img src={require(`${images.list[87]}`)} alt="" />
+          {/* <img src={require(`${images.list[84]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[85]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[86]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[87]}`)} alt="" /> */}
         </div>
         <div className="demoPage25">
-          <img src={require(`${images.list[88]}`)} alt="" />
-          <img src={require(`${images.list[89]}`)} alt="" />
-          <img src={require(`${images.list[90]}`)} alt="" />
-          <img src={require(`${images.list[91]}`)} alt="" />
+          {/* <img src={require(`${images.list[88]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[89]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[90]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[91]}`)} alt="" /> */}
         </div>
         <div className="demoPage26">
-          <img src={require(`${images.list[92]}`)} alt="" />
-          <img src={require(`${images.list[93]}`)} alt="" />
-          <img src={require(`${images.list[94]}`)} alt="" />
-          <img src={require(`${images.list[95]}`)} alt="" />
+          {/* <img src={require(`${images.list[92]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[93]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[94]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[95]}`)} alt="" /> */}
         </div>
         <div className="demoPage27">
-          <img src={require(`${images.list[96]}`)} alt="" />
-          <img src={require(`${images.list[97]}`)} alt="" />
-          <img src={require(`${images.list[98]}`)} alt="" />
-          <img src={require(`${images.list[99]}`)} alt="" />
+          {/* <img src={require(`${images.list[96]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[97]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[98]}`)} alt="" /> */}
+          {/* <img src={require(`${images.list[99]}`)} alt="" /> */}
         </div>
         <div className="demoPage28"></div>
       </HTMLFlipBook>
