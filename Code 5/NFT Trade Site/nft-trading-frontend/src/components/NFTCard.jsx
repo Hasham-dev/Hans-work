@@ -5,7 +5,7 @@ import { ethers } from "ethers";
 
 const Card = styled.div`
   background-color: #1e1e1e;
-  border: 1px solid #bb86fc;
+  border: 1px solid #fff;
   border-radius: 8px;
   padding: 1rem;
   margin: 1rem;
@@ -17,7 +17,7 @@ const Card = styled.div`
 
 const CardMedia = styled.div`
   width: 100%;
-  border-bottom: 1px solid #bb86fc;
+  border-bottom: 1px solid #fff;
   padding-bottom: 1rem;
 
   img, video {
@@ -27,14 +27,14 @@ const CardMedia = styled.div`
 
   video {
     width: 100%;
-    border-bottom: 1px solid #bb86fc;
+    border-bottom: 1px solid #fff;
     padding-bottom: 1rem;
   }
 `;
 
 const CardButton = styled.button`
-  background-color: #bb86fc;
-  color: #121212;
+  background-color: #fff;
+  color: #000;
   border: none;
   border-radius: 4px;
   padding: 0.5rem 1rem;
@@ -73,7 +73,7 @@ const ModalContent = styled.div`
 
 const Input = styled.input`
   background: #2c2c2c;
-  border: 1px solid #bb86fc;
+  border: 1px solid #fff;
   border-radius: 4px;
   padding: 0.5rem;
   margin: 1rem 0;
@@ -83,7 +83,7 @@ const Input = styled.input`
 const Loader = styled.div`
   border: 4px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  border-top: 4px solid #bb86fc;
+  border-top: 4px solid #fff;
   width: 40px;
   height: 40px;
   animation: spin 1s linear infinite;
