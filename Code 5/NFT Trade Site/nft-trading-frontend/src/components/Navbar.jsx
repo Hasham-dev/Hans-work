@@ -26,6 +26,8 @@ const NavLinks = styled.ul`
 
   @media only screen and (max-width: 600px) {
     padding: 0;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 `;
 
